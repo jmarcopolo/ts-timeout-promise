@@ -12,7 +12,7 @@
   "author": "Rkroh Morath <rkrohmorath@gmail.com>",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/radarsu/ts-timeout-promise"
   },
   "license": "MIT",
   "engines": {
